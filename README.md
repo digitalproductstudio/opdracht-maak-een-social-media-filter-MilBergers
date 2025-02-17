@@ -1,4 +1,5 @@
 **AR FILTER RUSHOPDRACHT 17/02/25**
+![Screenshot Example](screenshot-example.png)
 
 Link to hosted page: https://digitalproductstudio.github.io/opdracht-maak-een-social-media-filter-MilBergers/
 
